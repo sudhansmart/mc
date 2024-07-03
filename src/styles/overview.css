@@ -1,0 +1,73 @@
+ .section {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: #f0f0f0 solid 3px;
+    padding-bottom: 20px;
+  }
+  
+
+.tabs-container {
+    margin: 0 auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  
+
+  .tabs {
+    background-color: #f0f0f0; 
+   
+    border-bottom: 2px solid #ddd;
+  }
+
+  .tab {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 14px;
+    padding: 10px 20px;
+    color: #555;
+  }
+  
+
+  .tab.Mui-selected {
+    color: #1890ff;
+  }
+  
+
+  .content-section {
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    margin-top: 10px;
+  }
+  
+  .section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+
+  .section p {
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+  
+ 
+  }
+  
+
+  .section img {
+    max-width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+  /* .tab-text{
+    border-bottom: #555 solid 2px;
+  } */
+  
+  
+
+
+

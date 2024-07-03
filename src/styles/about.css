@@ -1,0 +1,15 @@
+.left-container{
+    display: flex;
+    margin-top: 20px;
+}
+
+.head {
+    margin-right: 100px;
+    padding: 10px;
+}
+.vellore{
+    padding: 10px;
+}
+.para{
+    margin-left: 14px;
+}
