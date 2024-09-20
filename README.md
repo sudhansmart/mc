@@ -21,7 +21,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/madrascampers.git](https://github.com/sudhansmart/mc.git)
+git clone (https://github.com/sudhansmart/mc.git)
 Navigate to the project directory:
 
 bash
